@@ -9,9 +9,13 @@ Senior Leadership needed to better understand employee retention and came to me 
 ## Skills Utilized
 
 data cleaning
-hiding/updating visuals 
+
+hiding/updating visuals
+
 DAX to filter/create specific percentage loss measures
+
 Visual edits
+
 General UI/UX
 
 
